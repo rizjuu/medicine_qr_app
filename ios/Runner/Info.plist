@@ -70,5 +70,7 @@
 	<string>We need camera access to scan medicine QR codes</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>We need microphone access for audio alerts</string>
+	<key>NSPhotoLibraryAddOnlyUsageDescription</key>
+	<string>We need permission to save QR codes to your photo library</string>
 </dict>
 </plist>

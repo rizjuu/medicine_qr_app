@@ -12,6 +12,9 @@ dependencies:
 
   mobile_scanner: ^5.2.3
   audioplayers: ^6.0.0
+  qr_flutter: ^4.1.0
+  path_provider: ^2.1.1
+  permission_handler: ^12.0.1
 
 dev_dependencies:
   flutter_test:
@@ -21,4 +24,5 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/sounds/alarm.mp3
+    - assets/sounds/alarmz.mp3
+    - assets/logo/logoo.png
